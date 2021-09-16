@@ -67,7 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="91521homework.html" />
     <Content Include="contact.html" />
+    <Content Include="CSS\MY StyleSheet1 yay.css" />
     <Content Include="team.html" />
     <Content Include="classes.html" />
     <Content Include="index.html" />
@@ -86,7 +88,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="CSS\" />
     <Folder Include="Images\" />
     <Folder Include="JS\" />
   </ItemGroup>
